@@ -1,0 +1,7 @@
+pandas-datareader
+prophet
+sktime
+joblib
+seaborn
+statsmodels
+
